@@ -1,2 +1,1 @@
-# WCA
-Weather Console Application
+# WCA - Weather Console Application
